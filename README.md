@@ -14,7 +14,7 @@ As **Mini Atividades Python** são uma coleção de exercícios práticos desenv
 ### 👩‍🏫 Informações da Aula
 
 - **Professora**: Cristina Maria Valadares de Lima
-- **Data**: 01 de Novembro de 2025
+- **Data**: 29 de Novembro de 2025
 - **Disciplina**: Programação Orientada a Objetos I (POOI)
 - **Linguagem**: Python 3.8+
 - **Modalidade**: Exercícios Práticos em Console
@@ -597,6 +597,6 @@ Estes exercícios são **ponte** para conceitos avançados:
 *"A programação é a arte de dizer a outro humano o que você quer que o computador faça." - Donald Knuth*
 
 **Professora: Cristina Maria Valadares de Lima**  
-**Data: 01 de Novembro de 2025**
+**Data: 29 de Novembro de 2025**
 
 </div>
